@@ -10,3 +10,6 @@ This device created for lighting flowers. It consists of:
 It can be choised one of many modes for each of 3 lamps:  
   * sheduled switching
   * illumination-depending switching
+
+## Vievs of the finished device:  
+!()
