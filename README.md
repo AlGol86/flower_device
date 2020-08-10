@@ -12,4 +12,4 @@ It can be choised one of many modes for each of 3 lamps:
   * illumination-depending switching
 
 ## Vievs of the finished device:  
-!()
+!(https://github.com/AlGol86/flower_device/blob/master/Pictures/flower_device_apply.jpg?raw=true)
