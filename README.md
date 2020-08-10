@@ -11,5 +11,5 @@ It can be choised one of many modes for each of 3 lamps:
   * sheduled switching
   * illumination-depending switching
 
-## Vievs of the finished device:  
-![alt text](https://github.com/AlGol86/flower_device/blob/master/Pictures/flower_device_apply.jpg)
+## Example of the finished device:  
+![alt](https://github.com/AlGol86/flower_device/blob/master/Pictures/flower_device_apply.jpg)
