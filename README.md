@@ -17,3 +17,5 @@ It can be choised one of many modes for each of 3 lamps:
 ![](https://github.com/AlGol86/flower_device/blob/master/Pictures/flower_device_front.jpg)
 ![](https://github.com/AlGol86/flower_device/blob/master/Pictures/flower_device_back.jpg)
 ![](https://github.com/AlGol86/flower_device/blob/master/Pictures/flower_device_back2.jpg)
+### View of main screen
+![](https://github.com/AlGol86/flower_device/blob/master/Pictures/flower_device_main_screen.jpg)
