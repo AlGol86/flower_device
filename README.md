@@ -6,6 +6,7 @@ This device created for lighting flowers. It consists of:
   * RTC(DS1302)
   * fotoresistor
   * 3 SSR relay (AQH2223) - to control the lights  
+  
 It can be choised one of many modes for each of 3 lamps:  
   * sheduled switching
   * illumination-depending switching
